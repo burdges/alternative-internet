@@ -157,3 +157,8 @@ The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data stor
 ### Others
 
 See [bitcointalk](https://bitcointalk.org/index.php?topic=134179.0) for a list of others.
+
+### GNU Taler
+
+[GNU Taler](http://taler.net/) is an transation system based on RSA blind singing that provides taxability and anonymous refunds.  Taler mints are centralized and tokens should be denominated in existing financial instruments, unlike blockchain based currencies, but Taler provides anonymity, while blockchain based currencies provide only pseudonymity.
+
